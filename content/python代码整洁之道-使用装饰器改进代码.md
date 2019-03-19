@@ -52,7 +52,6 @@ undefined = ""
     
         return wrapped
     
-    复制代码
 
 可以暂时忽略@wraps，之后再介绍  
 retry装饰器使用例子：
