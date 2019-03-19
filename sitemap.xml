@@ -3,7 +3,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://flyerooo.github.io/post/some-content/</loc>
+    <lastmod>2019-03-19T15:36:21+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://flyerooo.github.io/categories/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://flyerooo.github.io/post/</loc>
+    <lastmod>2019-03-19T15:36:21+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
@@ -16,6 +30,7 @@
   
   <url>
     <loc>https://flyerooo.github.io/</loc>
+    <lastmod>2019-03-19T15:36:21+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
