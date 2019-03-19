@@ -1,6 +1,5 @@
 +++
 date = "2018-12-02T00:00:00+08:00"
-draft = true
 tag = ""
 title = "Python代码整洁之道--使用装饰器改进代码"
 undefined = ""
