@@ -1,0 +1,23 @@
+---
+label: 文章
+hide_body: false
+fields:
+- type: text
+  label: 标题
+  hidden: false
+  config:
+    required: false
+  name: title
+- type: datetime
+  label: 日期
+  name: date
+- type: boolean
+  name: draft
+  label: 草稿
+- type: select
+  config:
+    source:
+      type: documents
+  label: 类别
+  name: tag
+- type: textarea
