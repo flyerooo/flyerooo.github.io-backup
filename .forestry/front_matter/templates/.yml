@@ -22,4 +22,5 @@ fields:
   name: tag
 - type: textarea
 pages:
+- content/并发编程.html
 - content/python代码整洁之道-使用装饰器改进代码.md
