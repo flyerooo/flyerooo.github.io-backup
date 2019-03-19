@@ -22,5 +22,6 @@ fields:
   name: tag
 - type: textarea
 pages:
+- content/python-使用socket模拟http请求-从阻塞到协程.md
 - content/并发编程.html
 - content/python代码整洁之道-使用装饰器改进代码.md
