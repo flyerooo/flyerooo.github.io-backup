@@ -56,7 +56,7 @@ undefined = ""
     复制代码
 
 可以暂时忽略@wraps，之后再介绍  
- retry装饰器使用例子：
+retry装饰器使用例子：
 
     @retry
     def run_operation(task):
@@ -65,7 +65,7 @@ undefined = ""
     复制代码
 
 因为装饰器只是提供的一种语法糖，实际上等于`run_operation = retry(run_operation)`  
- 比较常用的**超时重试**，便可以这样实现。
+比较常用的**超时重试**，便可以这样实现。
 
 #### [定义一个带参数的装饰器](https://link.juejin.im?target=https%3A%2F%2Fpython3-cookbook.readthedocs.io%2Fzh_CN%2Flatest%2Fc09%2Fp04_define_decorator_that_takes_arguments.html%23id3)
 
@@ -219,6 +219,5 @@ undefined = ""
             self.password = password
             self.ip = ip
             self.timestamp = timestamp
-    复制代码
 
 待续。。。
